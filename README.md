@@ -1,4 +1,5 @@
 VelibIDFExplorer
+
 Description :
 VelibStatusWeb est une application web intuitive qui offre aux utilisateurs du service Velib la possibilité de surveiller en temps réel l'état des bornes de vélos en libre-service en Île-de-France. L'application permet aux utilisateurs de consulter des informations détaillées telles que le nombre de vélos mécaniques, électriques, et d'autres données pertinentes. De plus, elle propose des représentations statistiques claires pour aider les utilisateurs à mieux comprendre les tendances et les schémas liés à l'utilisation des vélos Velib.
 
